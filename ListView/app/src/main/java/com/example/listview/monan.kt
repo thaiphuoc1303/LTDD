@@ -1,4 +1,4 @@
 package com.example.listview
 
-class monan {
+data class monan (var ten : String , var anh : Int){
 }
