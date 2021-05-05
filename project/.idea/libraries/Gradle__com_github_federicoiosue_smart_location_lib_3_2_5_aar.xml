@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.federicoiosue:smart-location-lib:3.2.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/smart-location-lib-3.2.5.aar/3b02784518a61ca1afe4ab8def322e7d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/smart-location-lib-3.2.5.aar/3b02784518a61ca1afe4ab8def322e7d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/smart-location-lib-3.2.5.aar/3b02784518a61ca1afe4ab8def322e7d/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

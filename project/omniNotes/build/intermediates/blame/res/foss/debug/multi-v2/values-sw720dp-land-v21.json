@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PHUOC\\AndroidStudioProjects\\project\\omniNotes\\build\\intermediates\\incremental\\mergeFossDebugResources\\merged.dir\\values-sw720dp-land-v21\\values-sw720dp-land-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PHUOC\\AndroidStudioProjects\\project\\omniNotes\\src\\main\\res\\values-sw720dp-land-v21\\dimens.xml",
+                    "from": {
+                        "startLines": "25,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "989,939",
+                        "endColumns": "58,48",
+                        "endOffsets": "1043,983"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,48",
+                        "endOffsets": "109,158"
+                    }
+                }
+            ]
+        }
+    ]
+}

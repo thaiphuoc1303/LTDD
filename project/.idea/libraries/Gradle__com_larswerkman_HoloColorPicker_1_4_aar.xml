@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.larswerkman:HoloColorPicker:1.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/HoloColorPicker-1.4.aar/e4e5e5033072865508cdcf09d9aed8f6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/HoloColorPicker-1.4.aar/e4e5e5033072865508cdcf09d9aed8f6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/HoloColorPicker-1.4.aar/e4e5e5033072865508cdcf09d9aed8f6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.larswerkman/HoloColorPicker/1.4/f691fb545879528e50806e5d6981b6b8c96e6382/HoloColorPicker-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

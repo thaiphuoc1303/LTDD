@@ -60,5 +60,5 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="I am a student Viet-Korea University of Information and Communication Technology."/>
-    
+
 </LinearLayout>

@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":247,"versionName":"5.5.2","enabled":true,"outputFile":"OmniNotes-fossDebug-5.5.2.apk","fullName":"fossDebug","baseName":"foss-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"it.feio.android.omninotes.foss","split":"","minSdkVersion":"16"}}]

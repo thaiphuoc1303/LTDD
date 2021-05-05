@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PHUOC\\AndroidStudioProjects\\project\\omniNotes\\build\\intermediates\\incremental\\mergeFossDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PHUOC\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-3.2.1.aar\\e6bd430fbfb4371c0f94aa8fd3719211\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "114",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "259"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\PHUOC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\69ba2805bdb69feecc4bdf0da325ca3f\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

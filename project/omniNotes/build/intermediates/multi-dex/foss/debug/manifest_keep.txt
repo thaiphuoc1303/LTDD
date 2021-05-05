@@ -1,0 +1,3 @@
+# Referenced at C:\Users\PHUOC\AndroidStudioProjects\project\omniNotes\build\intermediates\manifests\full\foss\debug\AndroidManifest.xml:54
+-keep class it.feio.android.omninotes.OmniNotes { <init>(...); }
+

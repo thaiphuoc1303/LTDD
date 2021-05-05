@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PHUOC\\AndroidStudioProjects\\project\\omniNotes\\build\\intermediates\\incremental\\mergeFossDebugResources\\merged.dir\\values-mcc262\\values-mcc262.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PHUOC\\.gradle\\caches\\transforms-1\\files-1.1\\library-1.1.1.aar\\38b4d0d2b2ce59a8a86992cac02a5b58\\res\\values-mcc262\\strings.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "840",
+                        "endColumns": "62",
+                        "endOffsets": "898"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    }
+                }
+            ]
+        }
+    ]
+}

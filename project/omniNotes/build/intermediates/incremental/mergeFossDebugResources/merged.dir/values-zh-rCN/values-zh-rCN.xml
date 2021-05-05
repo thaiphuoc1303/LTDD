@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="attachments_actions">
+    <item>共享</item>
+    <item>删除</item>
+    <item>全部刪除</item>
+    <item>编辑</item>
+  </string-array>
+    <string-array name="availability">
+    <item msgid="454869065893453189">"忙碌"</item>
+    <item msgid="6228387173725732140">"有空"</item>
+    <item msgid="2064426942462573474">"暂定"</item>
+  </string-array>
+    <string-array name="buttons_list">
+    <item msgid="5917946202321434335">"日"</item>
+    <item msgid="6248480754959562740">"周"</item>
+    <item msgid="4298472806133153766">"月"</item>
+    <item msgid="5033084974413793845">"日程"</item>
+  </string-array>
+    <string-array name="change_response_labels">
+    <item msgid="3466644709343519437">"仅限此活动"</item>
+    <item msgid="140670561403965380">"所有重复的活动"</item>
+  </string-array>
+    <string-array name="checked_items_behavior">
+    <item>保持原位</item>
+    <item>移动至所有事项末尾</item>
+    <item>取消勾选后移动至未勾选事项顶端</item>
+  </string-array>
+    <string-array name="colors_app">
+    <item>禁用</item>
+    <item>仅条状颜色标识</item>
+    <item>仅记事列表全彩</item>
+    <item>全彩</item>
+  </string-array>
+    <string-array name="colors_widget">
+    <item>禁用</item>
+    <item>仅条状颜色标识</item>
+    <item>记事列表全彩</item>
+  </string-array>
+    <string-array name="delete_repeating_labels">
+    <item msgid="4208432367651646938">"仅限此活动"</item>
+    <item msgid="1536401639805370405">"此活动和将来的活动"</item>
+    <item msgid="7833229563617435430">"所有活动"</item>
+  </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+    <item msgid="1341910309321756150">"此活动和将来的活动"</item>
+    <item msgid="6315440193748139854">"所有活动"</item>
+  </string-array>
+    <string-array name="navigation_list">
+    <item>记事</item>
+    <item>归档</item>
+    <item>提醒</item>
+    <item>回收站</item>
+    <item>未分类</item>
+  </string-array>
+    <string-array name="ordinal_labels">
+    <item msgid="2693927956303125332">"第一个"</item>
+    <item msgid="5631923029483854900">"第二个"</item>
+    <item msgid="148935502975250973">"第三个"</item>
+    <item msgid="5124200797326669172">"第四个"</item>
+    <item msgid="7564374178324652137">"最后一个"</item>
+  </string-array>
+    <string-array name="preferences_default_reminder_labels">
+    <item msgid="7495163916242649023">"无"</item>
+    <item msgid="5883344836499335043">"0 分钟"</item>
+    <item msgid="4354350447805231188">"1 分钟"</item>
+    <item msgid="265674592625309858">"5 分钟"</item>
+    <item msgid="8011089417728419666">"10 分钟"</item>
+    <item msgid="6177098581805412986">"15 分钟"</item>
+    <item msgid="356346660503078923">"20 分钟"</item>
+    <item msgid="992592434377054063">"25 分钟"</item>
+    <item msgid="9191353668596201944">"30 分钟"</item>
+    <item msgid="1192985682962908244">"45 分钟"</item>
+    <item msgid="1694315499429259938">"1 小时"</item>
+    <item msgid="8281019320591769635">"2 小时"</item>
+    <item msgid="2062931719019287773">"3 小时"</item>
+    <item msgid="4086495711621133006">"12 小时"</item>
+    <item msgid="3172669681920709561">"24 小时"</item>
+    <item msgid="5557836606782821910">"2 天"</item>
+    <item msgid="8336577387266744930">"1 周"</item>
+  </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+    <item msgid="2285927842308686988">"仅在您不参加的情况下"</item>
+    <item msgid="6367412240524984286">"在您不参加或未回复的情况下"</item>
+  </string-array>
+    <string-array name="preferences_week_start_day_labels">
+    <item msgid="986150274035512339">"语言区域的默认设置"</item>
+    <item msgid="134027225275475280">"星期六"</item>
+    <item msgid="95029346069903091">"星期日"</item>
+    <item msgid="5840983116375063739">"星期一"</item>
+  </string-array>
+    <string-array name="recurrence_freq">
+    <item msgid="3388478383574917007">"每天重复"</item>
+    <item msgid="6300824484048337842">"每周重复"</item>
+    <item msgid="189361731610816256">"每月重复"</item>
+    <item msgid="8714177874112569158">"每年重复"</item>
+  </string-array>
+    <string-array name="reminder_methods_labels">
+    <item msgid="5172236776878811487">"通知"</item>
+    <item msgid="1751151680520784746">"电子邮件"</item>
+    <item msgid="2658001219380695677">"短信"</item>
+    <item msgid="7926918288165444873">"闹钟"</item>
+  </string-array>
+    <string-array name="reminder_minutes_labels">
+    <item msgid="2416970002377237011">"0 分钟"</item>
+    <item msgid="6681865010714743948">"1 分钟"</item>
+    <item msgid="2327505114623595779">"5 分钟"</item>
+    <item msgid="1657410063332547113">"10 分钟"</item>
+    <item msgid="366087535181197780">"15 分钟"</item>
+    <item msgid="6252612791145061929">"20 分钟"</item>
+    <item msgid="7896694531989090700">"25 分钟"</item>
+    <item msgid="8754510169374808607">"30 分钟"</item>
+    <item msgid="3113380274218454394">"45 分钟"</item>
+    <item msgid="8546646645868526283">"1 小时"</item>
+    <item msgid="6467845211024768872">"2 小时"</item>
+    <item msgid="8201677619511076575">"3 小时"</item>
+    <item msgid="7172504281650128893">"12 小时"</item>
+    <item msgid="9114286702181482496">"24 小时"</item>
+    <item msgid="3107009344872997366">"2 天"</item>
+    <item msgid="6135563708172153696">"1 周"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_fri">
+    <item msgid="6534500380525126157">"第一个星期五"</item>
+    <item msgid="1935608297230506940">"第二个星期五"</item>
+    <item msgid="4061877662049317599">"第三个星期五"</item>
+    <item msgid="6856646749131820614">"第四个星期五"</item>
+    <item msgid="6533513913914859794">"最后一个星期五"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_mon">
+    <item msgid="7539974918997689048">"第一个星期一"</item>
+    <item msgid="4484275849072423978">"第二个星期一"</item>
+    <item msgid="8956169860824371383">"第三个星期一"</item>
+    <item msgid="6924403357659569326">"第四个星期一"</item>
+    <item msgid="1379608815263472161">"最后一个星期一"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_sat">
+    <item msgid="3556369572649948699">"第一个星期六"</item>
+    <item msgid="9130198690512925355">"第二个星期六"</item>
+    <item msgid="4525736070844032405">"第三个星期六"</item>
+    <item msgid="422053689531707709">"第四个星期六"</item>
+    <item msgid="5499975799312474425">"最后一个星期六"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_sun">
+    <item msgid="143841313172233420">"第一个星期日"</item>
+    <item msgid="2557379346106451363">"第二个星期日"</item>
+    <item msgid="7622144489915654132">"第三个星期日"</item>
+    <item msgid="527152448137686021">"第四个星期日"</item>
+    <item msgid="5057483608824759350">"最后一个星期日"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_thurs">
+    <item msgid="920673677566009313">"第一个星期四"</item>
+    <item msgid="4857419136007543270">"第二个星期四"</item>
+    <item msgid="222044587450564839">"第三个星期四"</item>
+    <item msgid="6197927556533030945">"第四个星期四"</item>
+    <item msgid="1023326923033436905">"最后一个星期四"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_tues">
+    <item msgid="8690802834039790777">"第一个星期二"</item>
+    <item msgid="9063613547307760928">"第二个星期二"</item>
+    <item msgid="6688603328729208168">"第三个星期二"</item>
+    <item msgid="6695206006961533357">"第四个星期二"</item>
+    <item msgid="8619069174889809914">"最后一个星期二"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_wed">
+    <item msgid="3233850232075584386">"第一个星期三"</item>
+    <item msgid="5059722045367799217">"第二个星期三"</item>
+    <item msgid="7986246648229272275">"第三个星期三"</item>
+    <item msgid="9068566169348980801">"第四个星期三"</item>
+    <item msgid="7976866743069062134">"最后一个星期三"</item>
+  </string-array>
+    <string-array name="response_labels1">
+    <item msgid="5605392595848194997">"无响应"</item>
+    <item msgid="3724434080904437698">"是"</item>
+    <item msgid="8854145743148992583">"可能"</item>
+    <item msgid="6174292185978948873">"否"</item>
+  </string-array>
+    <string-array name="sortable_columns_human_readable">
+    <item>标题</item>
+    <item>创建日期</item>
+    <item>最后修改日期</item>
+    <item>提醒日期</item>
+  </string-array>
+    <string-array name="text_size">
+    <item>最小字体</item>
+    <item>小字体</item>
+    <item>默认</item>
+    <item>大字体</item>
+    <item>最大字体</item>
+  </string-array>
+    <string-array name="visibility">
+    <item msgid="3035788428581513163">"默认"</item>
+    <item msgid="5200216103966973369">"私人"</item>
+    <item msgid="9182342638433672664">"公开"</item>
+  </string-array>
+    <plurals name="recurrence_end_count">
+    <item msgid="1400782968090516215" quantity="one">"重复<ns1:g id="EVENT_COUNT">%d</ns1:g>次"</item>
+    <item msgid="8779598489398048259" quantity="other">"重复<ns1:g id="EVENT_COUNT">%d</ns1:g>次"</item>
+  </plurals>
+    <plurals name="recurrence_interval_daily">
+    <item msgid="1205422710088692631" quantity="one">"每<ns1:g id="COUNT">%d</ns1:g>天"</item>
+    <item msgid="707566499994398250" quantity="other">"每<ns1:g id="COUNT">%d</ns1:g>天"</item>
+  </plurals>
+    <plurals name="recurrence_interval_monthly">
+    <item msgid="4768178401603139718" quantity="one">"每<ns1:g id="COUNT">%d</ns1:g>个月"</item>
+    <item msgid="5419723710346646523" quantity="other">"每<ns1:g id="COUNT">%d</ns1:g>个月"</item>
+  </plurals>
+    <plurals name="recurrence_interval_weekly">
+    <item msgid="4948681635464488351" quantity="one">"每<ns1:g id="COUNT">%d</ns1:g>周"</item>
+    <item msgid="7094801039989237061" quantity="other">"每<ns1:g id="COUNT">%d</ns1:g>周"</item>
+  </plurals>
+    <plurals name="recurrence_interval_yearly">
+    <item msgid="5819562634008179102" quantity="one">"每<ns1:g id="COUNT">%d</ns1:g>年"</item>
+    <item msgid="5678653649746562060" quantity="other">"每<ns1:g id="COUNT">%d</ns1:g>年"</item>
+  </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string msgid="5899029840837836711" name="acessibility_recurrence_choose_end_date_description">"更改结束日期"</string>
+    <string name="action_settings">设置</string>
+    <string name="add_category">添加类别</string>
+    <string name="add_note">添加记事</string>
+    <string name="add_reminder">添加提醒</string>
+    <string name="add_shortcut">添加快捷方式</string>
+    <string name="add_tag">添加标签</string>
+    <string name="agree_unlocking_all_notes">移除密码\n并解锁所有已锁定的记事?</string>
+    <string name="alarm_set_on">闹钟已设置于</string>
+    <string name="archive">归档</string>
+    <string name="archived">已归档</string>
+    <string name="at_time">,</string>
+    <string name="attachment">附件</string>
+    <string name="backup_existing">备份已存在，该备份将被覆盖</string>
+    <string name="backup_include_settings">包括设置 （带密码）</string>
+    <string name="camera">相机</string>
+    <string name="cancel">取消</string>
+    <string name="categories">类别</string>
+    <string name="categorize_as">分类为</string>
+    <string name="category">类别</string>
+    <string name="category_color">颜色</string>
+    <string name="category_deleted">类别已删除</string>
+    <string name="category_description">描述</string>
+    <string name="category_missing_title">缺少类别标题</string>
+    <string name="category_saved">类别已保存</string>
+    <string name="category_title">标题</string>
+    <string name="checklist">待办事项列表</string>
+    <string name="checklist_item_hint">新项目</string>
+    <string name="checklist_keep_checked">保留已勾选事项</string>
+    <string name="checklist_keep_symbols">保留复选标记（便于记忆已勾选项）</string>
+    <string name="checklist_off">禁用待办事项列表</string>
+    <string name="checklist_on">启用待办事项列表</string>
+    <string name="choose_action">选择要执行的操作</string>
+    <string name="click_to_refresh_application">点击刷新应用</string>
+    <string name="colors">颜色</string>
+    <string name="colors_app">应用内颜色设置</string>
+    <string name="colors_widget">小部件颜色设置</string>
+    <string name="completed">Completed</string>
+    <string name="confirm">确认</string>
+    <string name="confirm_new_password">确认新密码</string>
+    <string name="confirm_removing_backup">确认删除备份</string>
+    <string name="confirm_restoring_backup">确认还原备份</string>
+    <string name="content">内容</string>
+    <string name="contracted_view">缩略视图</string>
+    <string name="copy">保存</string>
+    <string name="crash_dialog_comment_prompt">在此插入可选注释</string>
+    <string name="crash_dialog_text">Omni Notes\n 出错。是否向开发者发送报告?</string>
+    <string name="crash_toast">Omni Notes出现了一些错误\n,将向开发者发送错误报告!</string>
+    <string name="creation">创建于:</string>
+    <string name="dashclock_description">显示Omni Notes统计数据及最近提醒</string>
+    <string name="data_deletion_completed">数据删除完成</string>
+    <string name="data_export_completed">数据备份完成</string>
+    <string name="data_export_message">输入备份名称</string>
+    <string name="data_import_completed">数据导入完成</string>
+    <string name="data_import_message">点击 -> 还原\n长按 -> 删除</string>
+    <string name="data_import_message_warning">警告：此操作将覆盖所有当前数据！</string>
+    <string msgid="3968620852217927702" name="day_picker_description">"按月份划分的日期网格"</string>
+    <string name="delete">删除</string>
+    <string name="delete_all_attachments">删除所有附件?</string>
+    <string name="delete_category_confirmation">该类别已被用于某些记事.\n确认将这些记事从该分类移除并删除该分类？</string>
+    <string name="delete_merged">在合并笔记后删除原有笔记</string>
+    <string name="delete_note_confirmation">确认删除记事？</string>
+    <string name="delete_selected_image">删除选定的附件？</string>
+    <string name="delete_this_category">删除此类别</string>
+    <string name="delete_unused_category_confirmation">确认删除类别？</string>
+    <string name="deleted">已删除</string>
+    <string msgid="6908431551612331381" name="deleted_key">"已删除 <ns1:g id="KEY">%1$s</ns1:g>"</string>
+    <string name="discard">取消</string>
+    <string name="discard_changes">放弃更改</string>
+    <string name="dismiss">取消</string>
+    <string name="donate">捐赠</string>
+    <string name="donate_summary">请考虑为我们提供非盈利性捐赠以支持本应用后续开发</string>
+    <string msgid="7007948707597430919" name="done_label">"完成"</string>
+    <string name="drawer_close">抽屉关闭</string>
+    <string name="drawer_open">抽屉打开</string>
+    <string name="edit">编辑</string>
+    <string name="edit_tag">编辑类别</string>
+    <string msgid="4808253965057791781" name="email_picker_label">"发送邮件时使用"</string>
+    <string name="empty_note_not_saved">未保存空白记事</string>
+    <string name="empty_note_not_shared">无法共享空白记事</string>
+    <string name="empty_password">密码为空</string>
+    <string name="empty_trash">清空回收站</string>
+    <string name="empty_trash_confirmation">确认删除回收站中所有记事？</string>
+    <string name="erase_sketch">擦除手绘？</string>
+    <string name="eraser">橡皮擦</string>
+    <string name="error">错误</string>
+    <string name="error_importing_some_attachments">导入部分附件时出错</string>
+    <string name="error_occurred_deleting_note">删除记事时发生错误</string>
+    <string name="error_saving_attachments">保存附件时出错</string>
+    <string name="expanded_view">扩展视图</string>
+    <string name="expired">已过期</string>
+    <string name="export_fail">文件导出失败</string>
+    <string name="export_success">文件成功导出到文件夹</string>
+    <string name="export_warning">导出的文件将覆盖前一个。要继续吗？</string>
+    <string name="extracted">已解压</string>
+    <string name="feature_not_available_on_this_device">功能在此设备上不可用</string>
+    <string name="file_not_exists">要导入的文件不存在</string>
+    <string name="files">文件</string>
+    <string name="filter">过滤</string>
+    <string name="filter_archived">隐藏已归档记事</string>
+    <string name="filter_old_reminders">隐藏旧提醒事项</string>
+    <string name="gallery">图库</string>
+    <string name="grid_view">网格视图</string>
+    <string name="help">帮助</string>
+    <string msgid="7586639618712934060" name="hour_picker_description">"小时转盘"</string>
+    <string name="image">图像</string>
+    <string name="import_fail">文件导入失败</string>
+    <string name="import_success">文件成功导入</string>
+    <string name="import_warning">导入数据可能会覆盖当前的记事。是否继续？</string>
+    <string name="imported">已导入</string>
+    <string name="info">信息</string>
+    <string name="insert_new_password">输入新密码</string>
+    <string name="insert_security_password">输入安全密码</string>
+    <string msgid="2674929164900463786" name="item_is_selected">"已选择 <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string name="last_update">更新于</string>
+    <string name="location">位置</string>
+    <string name="location_not_found">无法获取位置</string>
+    <string name="lock">锁定</string>
+    <string name="merge">合并</string>
+    <string msgid="6024811202872705251" name="minute_picker_description">"分钟转盘"</string>
+    <string name="minutes">分钟</string>
+    <string name="navigation_drawer_close">关闭导航抽屉</string>
+    <string name="navigation_drawer_open">打开导航抽屉</string>
+    <string name="new_update_available">检测到新版本 Omni Notes，是否更新?</string>
+    <string name="no">否</string>
+    <string name="no_app_to_handle_intent">没有应用程序来处理文件</string>
+    <string name="no_application_can_perform_this_action">没有应用程序可以执行此操作</string>
+    <string name="no_backups_available">无可用备份</string>
+    <string name="no_categories_created">尚未创建类别</string>
+    <string name="no_items_in_list">暂无内容！</string>
+    <string name="no_reminder_set">没有设置提醒</string>
+    <string name="no_tags_created">没有可用的标签, \n在你的记事里新建标签.</string>
+    <string name="not_expired">未过期</string>
+    <string name="not_now">稍后</string>
+    <string name="not_set">未设置</string>
+    <string name="note">记事</string>
+    <string name="note_archived">记事已归档</string>
+    <string name="note_deleted">记事已永久删除</string>
+    <string name="note_reminder_symbol">记事提醒标识</string>
+    <string name="note_thumbnail">记事缩略图</string>
+    <string name="note_trashed">记事已移入回收站</string>
+    <string name="note_unarchived">已从归档中还原记事</string>
+    <string name="note_untrashed">记事已从回收站恢复</string>
+    <string name="note_updated">记事已更新</string>
+    <string name="notes">记事</string>
+    <string name="notes_categorized_as">记事已分类为</string>
+    <string name="notes_category_removed">类别已从记事中移除</string>
+    <string name="ok">确定</string>
+    <string name="online_manual">在线用户手册</string>
+    <string name="opacity">不透明度</string>
+    <string name="open">打开</string>
+    <string name="password_forgot">忘记密码</string>
+    <string name="password_not_set">未设置密码</string>
+    <string name="password_remove">移除密码</string>
+    <string name="password_successfully_changed">密码修改成功</string>
+    <string name="password_successfully_removed">Password removed: all notes have been unlocked</string>
+    <string name="permission_audio_recording">麦克风权限用于录制音频记事</string>
+    <string name="permission_coarse_location">位置权限用于在您的记事中加入位置信息</string>
+    <string name="permission_external_storage">外部储存权限用于在公共文件夹进行备份</string>
+    <string name="permission_external_storage_detail_attachment">Permission to read on external storage is needed to allow attaching files from there</string>
+    <string name="permission_not_granted">权限未被授予</string>
+    <string name="photo">照片</string>
+    <string name="proceed">继续</string>
+    <string name="pushbullet">Pushbullet</string>
+    <string name="record">录音</string>
+    <string msgid="8093909645557717483" name="recurrence_dialog_title">"重复"</string>
+    <string msgid="2679396029776590130" name="recurrence_dialog_title_never">"不重复"</string>
+    <string msgid="6898950241634912991" name="recurrence_end_continously">"无限重复"</string>
+    <string msgid="1233883668293087977" name="recurrence_end_count_label">"限定次数"</string>
+    <string msgid="3693751578164711701" name="recurrence_end_date">"截至<ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="4142791438636994952" name="recurrence_end_date_label">"截至某个日期"</string>
+    <string msgid="4400107556121003459" name="recurrence_month_pattern_by_day">"在每个月的同一天"</string>
+    <string name="redo">恢复</string>
+    <string name="reminder">提醒</string>
+    <string name="reminders">提醒</string>
+    <string name="remove_category">移除类别</string>
+    <string name="remove_checklist">删除待办事项列表？</string>
+    <string name="remove_filter">移除过滤器</string>
+    <string name="remove_filter_archived">显示已归档记事</string>
+    <string name="remove_filter_old_reminders">显示旧提醒事项</string>
+    <string name="remove_location">删除位置？</string>
+    <string name="remove_reminder">删除提醒？</string>
+    <string name="reset_all_data_confirmation">确认删除所有应用程序的数据（备份将被保留）？</string>
+    <string name="saturation">饱和度</string>
+    <string name="save">保存</string>
+    <string msgid="2133599104834432589" name="save_label">"完成"</string>
+    <string name="save_note_to_lock_it">保存记事并锁定</string>
+    <string name="save_note_to_unlock_it">保存记事并解锁</string>
+    <string name="search">搜索</string>
+    <string name="search_hint">在记事中搜索</string>
+    <string name="search_location">搜索位置</string>
+    <string name="select_all">全选</string>
+    <string msgid="3973338219107019769" name="select_day">"选择月份和日期"</string>
+    <string msgid="7651068754188418859" name="select_hours">"选择小时"</string>
+    <string msgid="8327182090226828481" name="select_minutes">"选择分钟"</string>
+    <string name="select_sorting_column">排序</string>
+    <string name="select_tags">选择标签</string>
+    <string msgid="2603330600102539372" name="select_year">"选择年份"</string>
+    <string name="settings">设置</string>
+    <string name="settings_about">信息</string>
+    <string name="settings_answer_not_matching">答案缺失或不匹配</string>
+    <string name="settings_attachments_on_bottom">底部显示附件</string>
+    <string name="settings_attachments_on_bottom_summary_off">在内容上方显示附件</string>
+    <string name="settings_attachments_on_bottom_summary_on">在内容下方显示附件</string>
+    <string name="settings_auto_location">自动定位</string>
+    <string name="settings_auto_location_summary">自动将位置信息添加至新记事</string>
+    <string name="settings_backup">备份</string>
+    <string name="settings_backup_summary">导入或导出应用程序数据</string>
+    <string name="settings_beta">Google+</string>
+    <string name="settings_beta_summary">参与Beta测试以便及早获取最新功能</string>
+    <string name="settings_category_about">关于 </string>
+    <string name="settings_category_beta">测试版</string>
+    <string name="settings_category_gestures">手势</string>
+    <string name="settings_category_other">其他</string>
+    <string name="settings_category_preferences">首选项</string>
+    <string name="settings_changelog">更新日志</string>
+    <string name="settings_checked_items_behavior">待办事项列表</string>
+    <string name="settings_checked_items_behavior_summary">选中一条事项时进行何种操作？</string>
+    <string name="settings_choose_language">选择语言</string>
+    <string name="settings_dynamic_menu">动态菜单</string>
+    <string name="settings_dynamic_menu_summary">自动隐藏未使用的菜单选项</string>
+    <string name="settings_enable_animations">动画</string>
+    <string name="settings_enable_animations_summary">启用或禁用记事列表动画</string>
+    <string name="settings_enable_editor_links">链接识别</string>
+    <string name="settings_enable_editor_links_summary">在编辑器中启用或禁用链接与邮件地址自动高亮显示</string>
+    <string name="settings_enable_swipe">滑动记事</string>
+    <string name="settings_enable_swipe_summary">在记事上滑动以执行操作</string>
+    <string name="settings_enable_swype">启用滑动手势</string>
+    <string name="settings_enable_tag_marker">类别标记</string>
+    <string name="settings_enable_tag_marker_full">全彩</string>
+    <string name="settings_enable_tag_marker_full_list_only">仅列表</string>
+    <string name="settings_enable_tag_marker_full_list_only_summary">仅以全彩显示记事列表，显示记事内容时仅使用彩色小标记</string>
+    <string name="settings_enable_tag_marker_full_summary">记事列表与记事内容均以全彩显示</string>
+    <string name="settings_enable_tag_marker_summary">显示/隐藏类别的颜色标记</string>
+    <string name="settings_enable_vibration">振动</string>
+    <string name="settings_error_reporting">错误报告</string>
+    <string name="settings_error_reporting_summary_off">错误报告将不会被发送,问题可能不会被解决!</string>
+    <string name="settings_error_reporting_summary_on">当程序崩溃时,将通知开发人员来帮助你</string>
+    <string name="settings_export">备份</string>
+    <string name="settings_fab_expansion_behavior">悬浮按钮</string>
+    <string name="settings_fab_expansion_behavior_summary_off">短按开关选项</string>
+    <string name="settings_fab_expansion_behavior_summary_on">短按操作</string>
+    <string name="settings_first_day_of_week">星期起始日</string>
+    <string name="settings_import">还原或删除备份</string>
+    <string name="settings_import_from_springpad">从Sringpad导入记事</string>
+    <string name="settings_import_from_springpad_summary">选择您的Springpad导出存档并确保已连接至网络</string>
+    <string name="settings_included">设置已包括</string>
+    <string name="settings_instant_search">即时搜索</string>
+    <string name="settings_max_video_size">视频附件</string>
+    <string name="settings_max_video_size_summary">文件大小上限(MB)</string>
+    <string name="settings_navdrawer_on_exit">点击后退键时显示导航菜单</string>
+    <string name="settings_navdrawer_on_exit_summary">在记事列表视图下点击后退键打开导航菜单而非退出应用</string>
+    <string name="settings_notification_enable_boot_persistence">启用常驻通知</string>
+    <string name="settings_notification_enable_boot_persistence_summary">允许应用访问通知以避免在设备重启后退出</string>
+    <string name="settings_notification_ringtone">铃声</string>
+    <string name="settings_notification_snooze_delay">响铃延迟</string>
+    <string name="settings_password">密码</string>
+    <string name="settings_password_access">访问时需输入密码</string>
+    <string name="settings_password_answer">答案</string>
+    <string name="settings_password_answer_check">确认答案</string>
+    <string name="settings_password_instructions">密码确保您的记事不会被他人查看或修改.\n\n在设置新密码时您将被要求提供现有密码</string>
+    <string name="settings_password_not_matching">密码缺失或不匹配</string>
+    <string name="settings_password_question">安全问题</string>
+    <string name="settings_password_question_instructions">输入安全问题和对应答案用于在遗忘密码时进行重置</string>
+    <string name="settings_password_summary">编辑应用程序的安全密码</string>
+    <string name="settings_prettified_dates">美化日期格式</string>
+    <string name="settings_prettified_dates_summary_off">详细格式显示日期</string>
+    <string name="settings_prettified_dates_summary_on">简洁格式显示日期</string>
+    <string name="settings_reset_all_data">删除所有数据</string>
+    <string name="settings_screen_backup">备份</string>
+    <string name="settings_screen_behaviors">行为</string>
+    <string name="settings_screen_data">数据</string>
+    <string name="settings_screen_interface">界面</string>
+    <string name="settings_screen_navigation">导航</string>
+    <string name="settings_screen_notifications">通知</string>
+    <string name="settings_screen_privacy">隐私</string>
+    <string name="settings_screen_sync_import_export">同步和备份</string>
+    <string name="settings_send_analytics">共享匿名数据</string>
+    <string name="settings_send_analytics_summary">向开发者发送设备型号, 语言设置, 常用软件功能等非敏感信息. 这些数据仅用于开源软件的改进和开发.</string>
+    <string name="settings_show_category_count">记事数量</string>
+    <string name="settings_show_category_count_summary">在类别名称旁显示关联的记事数量</string>
+    <string name="settings_show_uncategorized">未分类组</string>
+    <string name="settings_show_uncategorized_summary">在导航菜单中添加未分类记事项</string>
+    <string name="settings_simple_calendar">简洁日历与时间</string>
+    <string name="settings_simple_calendar_summary">使用与Google软件相比更加简洁的安卓日历与时间选择器</string>
+    <string name="settings_statistics">统计</string>
+    <string name="settings_swipe_to_trash">滑动删除</string>
+    <string name="settings_swipe_to_trash_summary_1">滑动以将记事归档</string>
+    <string name="settings_swipe_to_trash_summary_2">滑动以删除记事</string>
+    <string name="settings_sync_drive">与Google Drive同步</string>
+    <string name="settings_sync_drive_summary">注册本应用以将数据同步至Google Drive储存服务</string>
+    <string name="settings_sync_import_export">同步和备份</string>
+    <string name="settings_text_size">字体大小</string>
+    <string name="settings_tour_show_again">用户引导</string>
+    <string name="settings_tour_show_again_summary">再次显示用户引导</string>
+    <string name="share">共享</string>
+    <string name="share_message_chooser">共享</string>
+    <string name="shared_content_sign">\n【来自 Omni Notes】</string>
+    <string name="shortcut_added">快捷方式已添加到桌面</string>
+    <string name="shortcut_note_deleted">快捷方式指向的记事已删除</string>
+    <string name="show_thumbnails">显示附件缩略图</string>
+    <string name="show_timestamps">显示时间戳</string>
+    <string name="sketch">手绘</string>
+    <string name="snooze">响铃延迟</string>
+    <string name="sort">排序</string>
+    <string name="starting_from">始于</string>
+    <string name="stats_active_notes">活动记事</string>
+    <string name="stats_archived_notes">归档记事</string>
+    <string name="stats_attachments">附件</string>
+    <string name="stats_audio_recordings">录音</string>
+    <string name="stats_avg_characters">平均字符数</string>
+    <string name="stats_avg_words">平均字数</string>
+    <string name="stats_categories">类别</string>
+    <string name="stats_characters">字符</string>
+    <string name="stats_checklists">待办事项列表</string>
+    <string name="stats_files">文件</string>
+    <string name="stats_future_reminders">待提醒</string>
+    <string name="stats_images">图片</string>
+    <string name="stats_locations">位置</string>
+    <string name="stats_locked_notes">锁定记事</string>
+    <string name="stats_max_characters">最多字符数</string>
+    <string name="stats_max_words">最多字数</string>
+    <string name="stats_reminders">提醒</string>
+    <string name="stats_sketches">手绘</string>
+    <string name="stats_tags">标签</string>
+    <string name="stats_total_notes">全部记事</string>
+    <string name="stats_trashed_notes">废弃记事</string>
+    <string name="stats_videos">视频</string>
+    <string name="stats_words">字数</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop">停止</string>
+    <string name="storage_not_available">存储不可用</string>
+    <string name="stroke">笔触大小</string>
+    <string name="stroke_size">笔触大小</string>
+    <string name="synchronize">同步</string>
+    <string name="tag">标签</string>
+    <string name="tags">标签</string>
+    <string name="tags_added">标签已添加</string>
+    <string name="tap_to_undo">点击撤消</string>
+    <string name="text_note">文本注释</string>
+    <string name="title">标题</string>
+    <string name="title_activity_about">信息</string>
+    <string name="title_activity_category">编辑类别</string>
+    <string name="title_activity_list">Omni Notes</string>
+    <string name="title_activity_password">编辑安全密码</string>
+    <string name="title_activity_sketch">手绘</string>
+    <string name="title_item_list">记事</string>
+    <string name="today">今天</string>
+    <string name="tomorrow">明天</string>
+    <string name="tour_community">加入社区!</string>
+    <string name="tour_detailactivity_action_detail">共享，标记，存档，保护，并......</string>
+    <string name="tour_detailactivity_action_title">更多功能</string>
+    <string name="tour_detailactivity_attachment_detail">为您的记事添加不同类型的附件！</string>
+    <string name="tour_detailactivity_attachment_title">改进</string>
+    <string name="tour_detailactivity_links_detail">URL, e-mail addresses and telephone numbers recognition</string>
+    <string name="tour_detailactivity_links_title">链接</string>
+    <string name="tour_detailactivity_reminder_detail">在附件，地点及提醒上点击或长按会有不同的效果！</string>
+    <string name="tour_detailactivity_reminder_title">只需点击</string>
+    <string name="tour_detailactivity_save_detail">点击“向上”导航图标或您设备的后退键即可保存</string>
+    <string name="tour_detailactivity_save_title">保存</string>
+    <string name="tour_detailactivity_swipe_detail">在当前记事编辑视图下 \n 创建新记事</string>
+    <string name="tour_detailactivity_swipe_title">滑动手势</string>
+    <string name="tour_listactivity_actions_detail">创建新记事并排序，访问首选项</string>
+    <string name="tour_listactivity_actions_title">操作</string>
+    <string name="tour_listactivity_final_detail">感谢您使用 Omni Notes\n\n一款帮助您提高工作效率\n记录生活中精彩时刻的\n开源笔记应用！</string>
+    <string name="tour_listactivity_final_title">祝您使用愉快</string>
+    <string name="tour_listactivity_home_detail">Navigation menu allows you to move through notes with filters and categories</string>
+    <string name="tour_listactivity_home_title">导航</string>
+    <string name="tour_listactivity_intro_detail">点击\"继续\"观看引导</string>
+    <string name="tour_listactivity_intro_title">欢迎使用 Omni Notes ！</string>
+    <string name="tour_listactivity_tag_detail">Add colored categories to organize notes at-a-glance</string>
+    <string name="tour_listactivity_tag_title">标签</string>
+    <string name="tour_request_start">这是您第一次使用Omni Note，您是否希望观看用户引导？</string>
+    <string name="trash">删除记事</string>
+    <string name="trashed">已回收</string>
+    <string name="unarchive">从归档中恢复</string>
+    <string name="uncompleted_checklists">Incompleted checklists</string>
+    <string name="undo">撤销</string>
+    <string name="unlock">解锁</string>
+    <string name="untrash">从回收站恢复</string>
+    <string name="update">更新并评分！</string>
+    <string name="use_current_location">使用当前位置</string>
+    <string name="video">视频</string>
+    <string name="widget_list_description">带按钮的可滚动列表小部件</string>
+    <string name="widget_simple_description">带按钮的简单小部件</string>
+    <string name="working">工作中...</string>
+    <string name="wrong_answer">答案错误</string>
+    <string name="wrong_password">密码错误</string>
+    <string msgid="6963340404644587098" name="year_picker_description">"年份列表"</string>
+</resources>
